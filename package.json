@@ -12,6 +12,7 @@
     "webpack-plugin"
   ],
   "dependencies": {
+    "uglify-js": "^3.7.4",
     "xml2js": "^0.4.19"
   },
   "peerDependencies": {
